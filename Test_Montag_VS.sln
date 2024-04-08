@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Test_Montag_VS", "Test_Montag_VS\Test_Montag_VS.vbproj", "{D7984E66-EDA6-45BD-B5BB-0EDC26786C31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7984E66-EDA6-45BD-B5BB-0EDC26786C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7984E66-EDA6-45BD-B5BB-0EDC26786C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7984E66-EDA6-45BD-B5BB-0EDC26786C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7984E66-EDA6-45BD-B5BB-0EDC26786C31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A37C57AF-D598-4874-9923-54046BEB0E85}
+	EndGlobalSection
+EndGlobal
